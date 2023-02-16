@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://vijetavijay.github.io/gitactionsample-ci-cd/",
+  "homepage": "https://vijetavijay.github.io/sample-reactapp-gitaction-ci-cd/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
