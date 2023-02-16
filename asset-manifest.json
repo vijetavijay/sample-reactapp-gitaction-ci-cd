@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gitactionsample-ci-cd/static/css/main.073c9b0a.css",
-    "main.js": "/gitactionsample-ci-cd/static/js/main.ac1bef6b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/gitactionsample-ci-cd/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/gitactionsample-ci-cd/index.html",
-    "main.073c9b0a.css.map": "/gitactionsample-ci-cd/static/css/main.073c9b0a.css.map",
-    "main.ac1bef6b.js.map": "/gitactionsample-ci-cd/static/js/main.ac1bef6b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/gitactionsample-ci-cd/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/sample-reactapp-gitaction-ci-cd/static/css/main.073c9b0a.css",
+    "main.js": "/sample-reactapp-gitaction-ci-cd/static/js/main.875c0eda.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sample-reactapp-gitaction-ci-cd/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/sample-reactapp-gitaction-ci-cd/index.html",
+    "main.073c9b0a.css.map": "/sample-reactapp-gitaction-ci-cd/static/css/main.073c9b0a.css.map",
+    "main.875c0eda.js.map": "/sample-reactapp-gitaction-ci-cd/static/js/main.875c0eda.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sample-reactapp-gitaction-ci-cd/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ac1bef6b.js"
+    "static/js/main.875c0eda.js"
   ]
 }
